@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Contact Me</title>
+
+         <!-- Provide a linke to the CSS stylesheet so you can style this page on your website -->
+         <link rel="stylesheet" href="../css/styles.css">
+    </head>
+    <body>
+        <!-- List contact info here -->
+        <h1>My Contact Details</h1>
+        <!-- Use the code that is commented out below when you learn CSS and JavaScript! -->
+        <!-- <li><span class="underline">Phone Number:</span> (507) 990-9098</li> -->
+        <!-- List phone number, personal email, and school email here -->
+        <p><u>Phone Number:</u> (507) 990-9098</p>
+        <p><u>Personal Email:</u> aek.krause@gmail.com</p>
+        <p><u>School Email:</u> krause3004@uwlax.edu</p>
+        <hr>
+        <!-- Create a form for contacting Andrew; when you hit submit,the user will have 
+        the ability to send their form to Andrew's email address -->
+        <h3>Contact Me</h3>
+        <form action="mailto:aek.krause@gmail.com" method="post" enctype="text/plain">
+            <!-- Create a name label with an input for the user to enter their name -->
+            <label>Your Name:</label>
+            <input type="text" name="yourName" value="">
+            <br>
+            <!-- Create an email label with an input for the user to enter their email in -->
+            <label>Your Email:</label>
+            <input type="email" name="yourEmail" value="">
+            <br>
+             <!-- Create a message labels with an input for the user to enter -->
+             <label>Your Message:</label>
+             <br>
+             <textarea name="yourMessage" cols="30" rows="10"></textarea>
+             <br>
+             <input type="submit">
+             <br>
+        </form>
+    </body>
+</html>

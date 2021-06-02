@@ -1,0 +1,32 @@
+/*
+ * This external CSS file styles various attributes of your personal website.  
+ * The background color of the website is the first attribute changed. Other 
+ * attributes that are styles include line separators and headings.
+ *
+ * Author: Andrew Krause
+ *
+ */
+
+/* Change the background color of your website */
+body {
+    background-color: #a6fff2;
+}
+
+/* Change attributes of each horizontal line on your website */
+hr {
+    background-color: #74f9ff;
+    border-style: none;
+    height: 6px;
+    /* width: 15%; --> Commented out for now */
+}
+
+/* Change the color of all of your <h1> headings */
+h1 {
+    color:#176363;
+    /* text-indent: 50px; --> Commented out for now */
+}
+
+/* Change the color of all of your <h3> headings */
+h3{
+    color:#297b7b;
+}
