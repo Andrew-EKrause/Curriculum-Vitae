@@ -17,7 +17,7 @@ body {
 
 /* Change attributes of each horizontal line on your website */
 hr {
-    background-color: #74f9ff;
+    background-color: #64efda;
     border-style: none;
     height: 6px;
     /* width: 15%; --> Commented out for now */
@@ -25,11 +25,11 @@ hr {
 
 /* Change the color of all of your <h1> headings */
 h1 {
-    color:#176363;
+    color:#174A4A;
     /* text-indent: 50px; --> Commented out for now */
 }
 
 /* Change the color of all of your <h3> headings */
 h3{
-    color:#297b7b;
+    color: #145757;
 }
