@@ -1,6 +1,6 @@
 # *Curriculum Vitae*
 ## View the Project Here:
-https://krause2023.github.io/CV/
+https://krause2023.github.io/Curriculum-Vitae/
 
 <p>&nbsp;</p>
 
