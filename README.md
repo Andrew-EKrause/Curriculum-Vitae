@@ -1,6 +1,5 @@
 # *Curriculum Vitae*
-## View the Project Here
-### https://krause2023.github.io/Curriculum-Vitae/
+## **[View my Curriculum Vitae Here](https://krause2023.github.io/Curriculum-Vitae/)**
 
 <p>&nbsp;</p>
 
